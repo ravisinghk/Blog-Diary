@@ -1,0 +1,22 @@
+<Box sx={{  width:"60%" }}>
+          <Typography sx={{borderTop:"1px solid #A8A8C7", borderBottom:"1px solid #A8A8C7"}}>Contact Developer</Typography>
+          <Box sx={{display: "flex", justifyContent:"center", gap:"15px"}}>
+            <LinkedIn />
+            <GitHub />
+            <AlternateEmail />
+          </Box>
+        </Box>
+
+{/* <Box>
+          <Box>
+            <AboutTitle>About Me</AboutTitle>
+            <Image
+              src="https://images.pexels.com/photos/12581577/pexels-photo-12581577.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+              alt=""
+            />
+            <Typography sx={{ margin: "10px 10px", fontSize: "14px" }}>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
+              minima veniam maxime perspiciatis cumque in
+            </Typography>
+          </Box>
+        </Box> */}
